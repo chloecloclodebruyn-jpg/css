@@ -1,0 +1,15 @@
+CSS Color Vocabulary — source checks
+Date: 28 October 2026
+Method: Python HTMLParser and CSS declaration inspection.
+
+PASS: #red matches one colour heading and declares color: red.
+PASS: #blue matches one colour heading and declares color: blue.
+PASS: #orange matches one colour heading and declares color: orange.
+PASS: #green matches one colour heading and declares color: green.
+PASS: #yellow matches one colour heading and declares color: yellow.
+PASS: .color-title declares font-weight: normal for all five colour headings.
+PASS: img declares height and width of 200px for all five images.
+PASS: linked stylesheet and all five image files exist.
+PASS: starter index.html is unchanged.
+
+Scope: source checks only. Browser rendering has not been verified.

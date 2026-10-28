@@ -1,0 +1,31 @@
+/* ID selectors match each Spanish word to its colour. */
+#red {
+  color: red;
+}
+
+#blue {
+  color: blue;
+}
+
+#orange {
+  color: orange;
+}
+
+#green {
+  color: green;
+}
+
+#yellow {
+  color: yellow;
+}
+
+/* Class selector styles all colour headings together. */
+.color-title {
+  font-weight: normal;
+}
+
+/* Element selector gives every image the required dimensions. */
+img {
+  height: 200px;
+  width: 200px;
+}
