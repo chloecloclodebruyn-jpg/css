@@ -1,0 +1,32 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+
+/* Element selector: all paragraphs. */
+p {
+  color: red;
+}
+
+/* Class selector: every element with class="note". */
+.note {
+  font-size: 20px;
+}
+
+/* ID selector: the element with this unique ID. */
+#id-selector-demo {
+  color: green;
+}
+
+/* Attribute selector: list items whose value is 4. */
+li[value="4"] {
+  color: blue;
+}
+
+/* Universal selector: every element. */
+* {
+  text-align: center;
+}

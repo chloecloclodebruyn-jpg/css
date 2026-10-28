@@ -1,0 +1,16 @@
+CSS Selectors — local source verification
+Date: 28 October 2026
+
+PASS: p selector declares color: red.
+PASS: .note selector declares font-size: 20px.
+PASS: #id-selector-demo selector declares color: green.
+PASS: li[value="4"] selector declares color: blue.
+PASS: universal selector declares text-align: center.
+PASS: original ol declarations are unchanged.
+PASS: HTML has five elements with the note class.
+PASS: HTML has exactly one element with id-selector-demo.
+PASS: HTML has exactly one li with value="4".
+PASS: linked stylesheet exists.
+
+Method: Python HTMLParser and CSS declaration inspection.
+Scope: source checks only; browser rendering was not tested.
