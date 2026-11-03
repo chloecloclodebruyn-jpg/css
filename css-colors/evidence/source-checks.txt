@@ -1,0 +1,12 @@
+CSS Colors 6.0 — source verification
+Date: 3 November 2026 (Africa/Johannesburg)
+
+PASS: body — background-color: antiquewhite
+PASS: h1 — color: whitesmoke
+PASS: h1 — background-color: darkseagreen
+PASS: h2 — color: #FAF8F1
+PASS: h2 — background-color: #C58940
+PASS: supplied Hello and World headings preserved
+PASS: internal stylesheet remains in the document head
+
+All 5 colour requirements passed. Source checks do not verify browser rendering or GitHub publication.
